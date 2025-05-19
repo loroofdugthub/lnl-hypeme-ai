@@ -1,0 +1,26 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #ff6e7f, #bfe9ff);
+    color: #fff;
+    text-align: center;
+    padding: 40px;
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    background: #fff;
+    color: #ff6e7f;
+    cursor: pointer;
+    border-radius: 10px;
+}
